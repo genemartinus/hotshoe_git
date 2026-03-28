@@ -1,0 +1,1 @@
+see [[15. The dust settles]] for how to work the ash spores into a quest solution for the magical ink ingredients.

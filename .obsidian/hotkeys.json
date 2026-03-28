@@ -1,0 +1,19 @@
+{
+  "obsidian-dice-roller:open-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-dice-roller:reroll": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+[[Dimble]]
+[[Thirsty Pebble]]
+[[Fermenters pebble]]
+
+Dimble's tavern's particular reputation for beer comes in part because he has a fermenter's stone, hence the name of the tavern.  Place the pebble in a container of water with flavoring ingredients that becomes beer overnight (12hrs).  There are competing explanations about the magic involved, illusion, alchemy, druid craft or a combination.  Equally uncertain is if the pebble's incantation is permanent or requires some sort of recharge or sacrifice.  Dimble doesn't know and would like to find out because he's worried about the future of his tavern.  He is a shining star when it comes to economic success in Hotshoe and a mystery because Dimble isn't buying any of the ingredients needed to make beer.  Dimble is concerned that Millicent will figure out his secret even if she is not a beer drinker.

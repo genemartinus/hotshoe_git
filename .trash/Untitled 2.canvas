@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"6122f8d760cafc91","x":-580,"y":-440,"width":340,"height":400,"type":"file","file":"NPC/Attachments/Images/Pictures/orion_kip_durn.png"},
+		{"id":"ed7ca4b77e7b25d4","x":-125,"y":-400,"width":625,"height":180,"type":"text","text":""}
+	],
+	"edges":[]
+}

@@ -1,0 +1,6 @@
+**Character:** Obur (The Optimistic Watchman) **Setting:** The bustling village well during the breakfast hour. **Context:** The party has just arrived in the hamlet and is looking for information or a place to stay.
+**The Script:**
+- **Narrative:** A boisterous laugh rings out over the sound of clanking buckets. A stout dwarf in polished chain mail is helping an elderly villager haul water. He looks up, wiping sweat from his brow, and beams a toothy grin at you.
+- **Obur:** "Ho there, travelers! Fine morning for a walk, isn't it? The birds are singing, the Orcs are staying in their holes, and the ale at the taphouse is cold. What more could a soul ask for?"
+- **Interaction:** If the party asks about trouble in town, Obur’s smile falters for just a fraction of a second before returning.
+- **Obur:** "Trouble? In our little slice of heaven? Nonsense! We had a fox in a chicken coop Tuesday, but [[Glour]] scared it off. Don't you worry your heads. You’re safe on my watch. Say, you look like the capable sort—keep an eye out for any 'unusual' stonework while you're exploring, would you? Old habit of mine."
